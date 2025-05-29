@@ -15,7 +15,23 @@ Slides on Discord
 
 [Oscillator in p5.js reference](https://p5js.org/reference/p5.sound/p5.Oscillator/)
 
-### 4. Examples of sketches using oscillation in different contexts:
+[Sine wave visualisation](https://editor.p5js.org/marysiatanska/sketches/rdf8gm2D5)
+
+[Frequency modulation](https://editor.p5js.org/marysiatanska/sketches/jDHVITgLg)
+
+Visualise frequency modulation:
+https://editor.p5js.org/marysiatanska/sketches/MaJlX0Pia
+
+### 4. Jam!!!
+Play around with the examples or code something of your own!
+
+Prompts you can use if you want to:
+1. Make sound visualisation using central composition.
+2. Design a sound to introduce a new planet in a sci-fi movie.
+3. Design a background sound for a wiggly space bug animation.
+4. Summer morning in a campsite with a herd of super cute hopping bunnies.
+
+### 5. Examples of sketches using oscillation in different contexts:
  
 Oscillation for pulsating animation:
 https://editor.p5js.org/marysiatanska/sketches/AXgZpWBXV
@@ -23,9 +39,5 @@ https://editor.p5js.org/marysiatanska/sketches/AXgZpWBXV
 Rainbow wave animation:
 https://editor.p5js.org/marysiatanska/sketches/ov7y3nKGN
 
-Sine rose:
+Sine rose / polar coordinates
 https://editor.p5js.org/marysiatanska/sketches/Uvj0z6qoy
-
-Visualise frequency modulation:
-https://editor.p5js.org/marysiatanska/sketches/MaJlX0Pia
-
