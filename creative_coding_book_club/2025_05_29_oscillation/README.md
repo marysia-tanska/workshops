@@ -1,4 +1,5 @@
 4: Oscillation:
+[Book chapter](https://natureofcode.com/oscillation/)
 
 ### 1. Intro (10-15 mins)
 Meet other people, chat, or take a moment to make yourself comfortable and look at the resources!
@@ -36,7 +37,7 @@ Prompts you can use if you want to:
 Oscillation for pulsating animation:
 https://editor.p5js.org/marysiatanska/sketches/AXgZpWBXV
 
-Rainbow wave animation:
+Rainbow wave animation inspired by Bridget Riley:
 https://editor.p5js.org/marysiatanska/sketches/ov7y3nKGN
 
 Sine rose / polar coordinates
