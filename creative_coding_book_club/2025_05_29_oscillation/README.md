@@ -42,3 +42,13 @@ https://editor.p5js.org/marysiatanska/sketches/ov7y3nKGN
 
 Sine rose / polar coordinates
 https://editor.p5js.org/marysiatanska/sketches/Uvj0z6qoy
+
+### 6. More resources:
+- [maximilian.js library](https://mimicproject.com/course/making-music/core-concepts)<br><br>
+- [maximilian library for C++ / OpenFrameworks](https://github.com/micknoise/Maximilian)<br><br>
+- [tone.js libirary](https://tonejs.github.io/)<br><br>
+- [Strudel - live coding music in the browser](https://strudel.cc/)<br><br>
+- [Tidalcycles - live coding music (local setup, better performance)](https://strudel.cc/)<br><br>
+- [Nudel - collaborative live coding tool for Strudel and Hydra (visual synth)](https://nudel.cc/)<br><br>
+- [Sonic Pi - another live coding tool](https://sonic-pi.net/)<br><br>
+- [Librosa - a sound library for Python](https://librosa.org/doc/latest/index.html)
